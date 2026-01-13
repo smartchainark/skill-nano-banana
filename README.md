@@ -20,12 +20,10 @@ A Claude Code skill that generates images using Google's Gemini API. Optimized p
 
 ### Quick Start
 
-1. **Clone to your skills library:**
+1. **Clone to Claude Code skills directory:**
    ```bash
-   cd ~/Projects/my_skils/library
+   cd ~/.claude/skills
    git clone https://github.com/smartchainark/skill-nano-banana.git nano-banana
-   cd ~/Projects/my_skils/enabled
-   ln -s ../library/nano-banana .
    ```
 
 2. **Set API key:**
@@ -100,12 +98,10 @@ python scripts/run.py generate.py social "AI tips" --platform youtube
 
 ### 快速开始
 
-1. **克隆到技能库：**
+1. **克隆到 Claude Code 技能目录：**
    ```bash
-   cd ~/Projects/my_skils/library
+   cd ~/.claude/skills
    git clone https://github.com/smartchainark/skill-nano-banana.git nano-banana
-   cd ~/Projects/my_skils/enabled
-   ln -s ../library/nano-banana .
    ```
 
 2. **设置 API Key：**
