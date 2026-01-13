@@ -23,7 +23,7 @@ A Claude Code skill that generates images using Google's Gemini API. Optimized p
 1. **Clone to your skills library:**
    ```bash
    cd ~/Projects/my_skils/library
-   git clone https://github.com/YOUR_USERNAME/nano-banana.git
+   git clone https://github.com/smartchainark/skill-nano-banana.git nano-banana
    cd ~/Projects/my_skils/enabled
    ln -s ../library/nano-banana .
    ```
@@ -93,7 +93,7 @@ python scripts/run.py generate.py social "AI tips" --platform youtube
 1. **克隆到技能库：**
    ```bash
    cd ~/Projects/my_skils/library
-   git clone https://github.com/YOUR_USERNAME/nano-banana.git
+   git clone https://github.com/smartchainark/skill-nano-banana.git nano-banana
    cd ~/Projects/my_skils/enabled
    ln -s ../library/nano-banana .
    ```
