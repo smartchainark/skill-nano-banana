@@ -1,0 +1,11 @@
+# Nano Banana - Gemini API Image Generation
+# Core dependencies
+
+google-genai>=0.5.0
+python-dotenv>=1.0.0
+pillow>=10.0.0
+
+# Optional: background removal for app icons
+# Uncomment to enable:
+# rembg>=2.0.0
+# onnxruntime>=1.18.0
