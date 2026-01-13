@@ -67,6 +67,16 @@ python scripts/run.py generate.py social "AI tips" --platform youtube
 | `icon` | App icon | Square |
 | `banner` | Wide banner | 16:9 or 21:9 |
 
+### Examples
+
+| YouTube Thumbnail | Blog Cover |
+|-------------------|------------|
+| ![thumbnail](images/thumbnail_0_0.png) | ![cover](images/cover_0.png) |
+
+| Social Media Post | App Icon |
+|-------------------|----------|
+| ![social](images/social-post_0_0.png) | ![icon](images/app-icon_0_0.png) |
+
 ### vs Other Skills
 
 | Skill | Speed | Cost | Chinese Text |
@@ -136,6 +146,16 @@ python scripts/run.py generate.py social "AI技巧分享" --platform youtube
 | `cover` | 博客封面 | 16:9 带中文 |
 | `icon` | App 图标 | 正方形 |
 | `banner` | 横幅 | 16:9 或 21:9 |
+
+### 效果展示
+
+| YouTube 缩略图 | 博客封面 |
+|----------------|----------|
+| ![thumbnail](images/thumbnail_0_0.png) | ![cover](images/cover_0.png) |
+
+| 社交媒体配图 | App 图标 |
+|--------------|----------|
+| ![social](images/social-post_0_0.png) | ![icon](images/app-icon_0_0.png) |
 
 ### 与其他技能对比
 
